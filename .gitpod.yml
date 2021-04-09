@@ -15,7 +15,10 @@ ports:
   - port: 5900
     onOpen: ignore
   - port: 6080
-    onOpen: open-preview    
+    onOpen: open-preview
   - port: 6942
     onOpen: ignore
-    
+  - port: 6943
+    onOpen: ignore
+  - port: 6944
+    onOpen: ignore
