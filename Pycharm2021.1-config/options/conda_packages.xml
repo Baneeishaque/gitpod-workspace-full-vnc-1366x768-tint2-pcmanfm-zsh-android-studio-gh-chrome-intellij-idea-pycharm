@@ -1,0 +1,5 @@
+<application>
+  <component name="PyCondaPackageService">
+    <option name="PREFERRED_CONDA_PATH" value="$USER_HOME$/.pyenv/versions/anaconda3-2020.11/bin/conda" />
+  </component>
+</application>

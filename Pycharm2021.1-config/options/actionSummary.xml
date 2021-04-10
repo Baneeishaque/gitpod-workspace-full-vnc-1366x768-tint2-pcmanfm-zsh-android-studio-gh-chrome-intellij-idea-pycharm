@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CloseProject">
+      <i c="1" l="1618017454210" />
+    </e>
+    <e n="EditorLineStart">
+      <i c="1" l="1618016421443" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1618016294820" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1618017437034" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1618016280673" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="1" l="1618017434421" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1618016542499" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1618017109239" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$AddInterpreterAction">
+      <i c="1" l="1618016447920" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
+      <i c="2" l="1618017113484" />
+    </e>
+  </component>
+</application>
