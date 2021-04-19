@@ -1,0 +1,1 @@
+{"id":116860,"xmlId":"me.ii.minimal-intellij","name":"Minimal Theme","description":"A minimal theme for IntelliJ-based editors.","tags":["User Interface","Theme"],"vendor":"Ilmari Vacklin","version":"0.1.0","notes":"\n      Change to simple plugin project type.\n    \n    ","dependencies":["com.intellij.modules.platform"],"since":"173.0","size":8389}
