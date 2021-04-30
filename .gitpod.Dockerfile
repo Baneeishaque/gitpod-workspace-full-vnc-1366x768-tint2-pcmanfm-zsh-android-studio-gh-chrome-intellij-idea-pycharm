@@ -1,7 +1,7 @@
 FROM baneeishaque/gitpod-workspace-full-vnc-1366x768-tint2-pcmanfm-zsh-android-studio-gh-chrome-intellij-idea
 
-ARG pycharmDownloadUrl="https://download.jetbrains.com/python/pycharm-professional-2021.1.tar.gz"
-ARG pycharmInstallationFile="pycharm-professional-2021.1.tar.gz"
+ARG pycharmDownloadUrl="https://download.jetbrains.com/python/pycharm-professional-2021.1.1.tar.gz"
+ARG pycharmInstallationFile="pycharm-professional-2021.1.1.tar.gz"
 
 RUN cd $HOME \
  && wget $pycharmDownloadUrl | tee -a /tmp/wget-intellijIdea.log \
