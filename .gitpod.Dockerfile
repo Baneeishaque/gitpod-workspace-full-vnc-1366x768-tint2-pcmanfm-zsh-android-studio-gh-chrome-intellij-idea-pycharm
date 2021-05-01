@@ -9,5 +9,5 @@ RUN cd $HOME \
  && rm $pycharmInstallationFile
 
 RUN mkdir -p ~/.config/JetBrains/PyCharm2021.1 \
- && cp /usr/local/pycharm-2021.1/bin/pycharm64.vmoptions ~/.config/JetBrains/PyCharm2021.1/ \
+ && cp /usr/local/pycharm-2021.1.1/bin/pycharm64.vmoptions ~/.config/JetBrains/PyCharm2021.1/ \
  && echo "-Dsun.java2d.xrender=false" >> ~/.config/JetBrains/PyCharm2021.1/pycharm64.vmoptions
