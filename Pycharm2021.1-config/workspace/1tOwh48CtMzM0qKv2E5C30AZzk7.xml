@@ -4,7 +4,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/pruned_RNN_SM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2486">
+            <state>
               <caret line="117" selection-start-line="117" selection-end-line="117" />
             </state>
           </provider>
@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/SS_QCCN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4004">
+            <state>
               <caret line="186" selection-start-line="186" selection-end-line="186" />
               <folding>
                 <element signature="e#253#288#0" expanded="true" />
@@ -25,7 +25,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/algorithms/IDC.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state>
               <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
               <folding>
                 <element signature="e#310#345#0" expanded="true" />
@@ -37,7 +37,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/algorithms/full_RNN_SM.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
+            <state relative-caret-position="261">
               <caret line="118" selection-start-line="118" selection-end-line="118" />
             </state>
           </provider>
@@ -88,11 +88,11 @@
     </option>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2069000" />
+    <option name="totallyTimeSpent" value="2214000" />
   </component>
   <component name="ToolWindowManager">
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25147492" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
@@ -110,7 +110,7 @@
       <window_info anchor="bottom" id="Internal Method Tracing" order="9" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="File Transfer" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.32819724" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3338558" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="14" />
       <window_info anchor="bottom" id="Python Packages" order="15" />
@@ -132,10 +132,14 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="580" y="269" width="198" height="198" key="#Custom_Plugin_Repositories/0.0.1366.738@0.0.1366.738" timestamp="1622657427646" />
-    <state x="172" y="6" key="SettingsEditor" timestamp="1622657443972">
+    <state x="324" y="201" width="709" height="334" key="#Notifications" timestamp="1622660289447">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="172" y="6" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1622657443972" />
+    <state x="324" y="201" width="709" height="334" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1622660289447" />
+    <state x="172" y="6" key="SettingsEditor" timestamp="1622660269296">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="172" y="6" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1622660269296" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -154,14 +158,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/pruned_RNN_SM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2486">
+        <state>
           <caret line="117" selection-start-line="117" selection-end-line="117" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/SS_QCCN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4004">
+        <state>
           <caret line="186" selection-start-line="186" selection-end-line="186" />
           <folding>
             <element signature="e#253#288#0" expanded="true" />
@@ -171,7 +175,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/IDC.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state>
           <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
           <folding>
             <element signature="e#310#345#0" expanded="true" />
@@ -181,7 +185,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithms/full_RNN_SM.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
+        <state relative-caret-position="261">
           <caret line="118" selection-start-line="118" selection-end-line="118" />
         </state>
       </provider>

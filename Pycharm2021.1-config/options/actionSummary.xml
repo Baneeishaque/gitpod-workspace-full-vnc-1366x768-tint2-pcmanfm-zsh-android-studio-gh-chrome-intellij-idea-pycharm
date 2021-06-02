@@ -1,10 +1,16 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1622660240017" />
+    </e>
     <e n="$Undo">
       <i c="1" l="1622654887398" />
     </e>
     <e n="About">
       <i c="1" l="1622657595974" />
+    </e>
+    <e n="CheckForUpdate">
+      <i c="1" l="1622660277550" />
     </e>
     <e n="CloseProject">
       <i c="1" l="1618017454210" />
@@ -37,7 +43,7 @@
       <i c="1" l="1622653824783" />
     </e>
     <e n="ShowSettings">
-      <i c="1" l="1622657413676" />
+      <i c="2" l="1622660216071" />
     </e>
     <e n="Vcs.VcsClone">
       <i c="1" l="1618016280673" />
