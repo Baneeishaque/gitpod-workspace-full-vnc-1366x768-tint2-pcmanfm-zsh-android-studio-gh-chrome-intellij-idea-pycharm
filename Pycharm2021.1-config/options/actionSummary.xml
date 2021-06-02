@@ -1,34 +1,82 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="1" l="1622654887398" />
+    </e>
+    <e n="About">
+      <i c="1" l="1622657595974" />
+    </e>
     <e n="CloseProject">
       <i c="1" l="1618017454210" />
+    </e>
+    <e n="EditorCut">
+      <i c="1" l="1622654885008" />
     </e>
     <e n="EditorLineStart">
       <i c="1" l="1618016421443" />
     </e>
+    <e n="EditorPageDown">
+      <i c="26" l="1622655130016" />
+    </e>
     <e n="EditorPaste">
-      <i c="1" l="1618016294820" />
+      <i c="2" l="1622657425912" />
+    </e>
+    <e n="InvalidateCaches">
+      <i c="1" l="1622657466455" />
+    </e>
+    <e n="ReformatCode">
+      <i c="4" l="1622654979343" />
     </e>
     <e n="Run">
       <i c="1" l="1618017437034" />
     </e>
+    <e n="SaveAll">
+      <i c="3" l="1622654981101" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1622653824783" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1622657413676" />
+    </e>
     <e n="Vcs.VcsClone">
       <i c="1" l="1618016280673" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1622653554066" />
     </e>
     <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
       <i c="1" l="1618017434421" />
     </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$2">
+      <i c="1" l="1622657422390" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1622657420667" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="3" l="1622654007464" />
+    </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="4" l="1618016542499" />
+      <i c="9" l="1622657664870" />
     </e>
     <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
       <i c="1" l="1618017109239" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$5">
+      <i c="1" l="1622653419576" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1622657424638" />
     </e>
     <e n="com.jetbrains.python.sdk.PySdkPopupFactory$AddInterpreterAction">
       <i c="1" l="1618016447920" />
     </e>
     <e n="com.jetbrains.python.sdk.PySdkPopupFactory$InterpreterSettingsAction">
       <i c="2" l="1618017113484" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="1" l="1622653604546" />
     </e>
   </component>
 </application>

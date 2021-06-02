@@ -10,10 +10,16 @@
             <ProjectPluginTracker />
           </value>
         </entry>
+        <entry key="1tOwh48CtMzM0qKv2E5C30AZzk7">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
       </map>
     </trackers>
   </component>
   <component name="PropertiesComponent">
+    <property name="MarketplacePluginsSearchHistory" value="eval&#10;eva&#10;ev&#10;e" />
     <property name="PyCharm.InitialConfiguration" value="true" />
     <property name="PyCharm.InitialConfiguration.V2" value="true" />
     <property name="PyCharm.InitialConfiguration.V3" value="true" />
@@ -21,26 +27,40 @@
     <property name="PyCharm.InitialConfiguration.V5" value="true" />
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
-    <property name="appcds.runOnSecondStart" value="PY-211.6693.115-4b0c075704ea568535bc53fa5f8d70bfff39ee97751ca77524abc76306e9805b" />
+    <property name="appcds.runOnSecondStart" value="PY-211.6693.115-c30978d3ac0f8e968dbbfb67509e6f9dfe198b1f90f588c1d6cf8697fd60bee9" />
+    <property name="evlsprt3.211" value="13" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
-    <property name="file.gist.reindex.count" value="5750" />
-    <property name="fileTypeChangedCounter" value="2" />
-    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector" />
+    <property name="file.chooser.recent.files" value="/workspace/RNN-SM" />
+    <property name="file.gist.reindex.count" value="16637" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:ru.meanmail.fileTypes.RequirementsFileTypeDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
     <property name="ide.updates.previous.build.number" value="PY-211.6693.115" />
-    <property name="lastSeenTip" value="neue-SelectTasks.html" />
-    <property name="lastTimeTipsWereShown" value="1618016330666" />
+    <property name="lastSeenTip" value="neue-JupyterAddCell.html" />
+    <property name="lastTimeTipsWereShown" value="1622653571305" />
+    <property name="last_opened_file_path" value="/workspace/RNN-SM" />
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions" />
-    <property name="seenTips" value="neue-SelectTasks.html" />
+    <property name="seenTips" value="neue-SelectTasks.html,neue-JupyterAddCell.html" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="ts.lib.d.ts.version" value="4.2.2" />
   </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/.pyenv/versions/anaconda3-2020.11/envs/RNN-SM/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
-      <command-history-file filename="Raindrop-Removal-With-Light-Field-Image-Using-Image-Inpainting-history" project-path="$USER_HOME$/PycharmProjects/Raindrop-Removal-With-Light-Field-Image-Using-Image-Inpainting" last-access-time="1618016463249" />
+      <command-history-file filename="RNN-SM-history" project-path="/workspace/RNN-SM" last-access-time="1622657805587" />
     </command-history-files>
   </component>
   <component name="ToolbarSettingsService">
     <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
+  </component>
+  <component name="pl.sudo.imageviewer.settings">
+    <option name="pluginJustUpdated" value="false" />
+    <option name="pluginLastVersion" value="1.3.4" />
   </component>
 </application>

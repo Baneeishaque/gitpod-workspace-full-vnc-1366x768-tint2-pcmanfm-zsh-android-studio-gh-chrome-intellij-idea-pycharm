@@ -11,13 +11,17 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="137" y="500" width="300" height="211" key="ProcessPopupWindow" timestamp="1618017280824">
+    <state x="466" y="115" width="426" height="507" key="FileChooserDialogImpl" timestamp="1622653558876">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="137" y="500" width="300" height="211" key="ProcessPopupWindow/0.0.1366.738" timestamp="1618017280824" />
-    <state x="684" y="371" width="808" height="700" key="WELCOME_SCREEN" timestamp="1618017457821">
+    <state x="466" y="115" width="426" height="507" key="FileChooserDialogImpl/0.0.1366.738" timestamp="1622653558876" />
+    <state x="137" y="500" width="300" height="211" key="ProcessPopupWindow" timestamp="1622657616914">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="684" y="371" width="808" height="700" key="WELCOME_SCREEN/0.0.1366.738" timestamp="1618017457821" />
+    <state x="137" y="500" width="300" height="211" key="ProcessPopupWindow/0.0.1366.738" timestamp="1622657616914" />
+    <state x="682" y="362" width="1368" height="744" key="WELCOME_SCREEN" timestamp="1622653390390">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="682" y="362" width="1368" height="744" key="WELCOME_SCREEN/0.0.1366.738" timestamp="1622653390390" />
   </component>
 </application>
